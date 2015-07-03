@@ -49,6 +49,9 @@ var domainInGfw = {
 var domains = {
 //OUTGFW
   "pan.baidu.com":1,
+  "360.cn":1,
+  "dbank.com":1,
+  "vmall.com":1,
   "toutoupiao.com":1,
   "yun.baidu.com":1,
   "julying.com":1,
